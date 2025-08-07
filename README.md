@@ -1,1 +1,2 @@
-# 2024-2025Discrete-Mathematics
+# 清华大学2024-2025秋季学期离散数学
+这是我的期中和期末考试的cheatsheet，该课程成绩为A。
